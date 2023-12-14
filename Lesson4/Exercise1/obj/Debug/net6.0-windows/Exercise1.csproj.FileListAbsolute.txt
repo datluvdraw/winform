@@ -1,0 +1,4 @@
+C:\Users\MSI GAMING\source\repos\Lesson4\Exercise1\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\MSI GAMING\source\repos\Lesson4\Exercise1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\MSI GAMING\source\repos\Lesson4\Exercise1\obj\Debug\net6.0-windows\Exercise1_MarkupCompile.cache
+C:\Users\MSI GAMING\source\repos\Lesson4\Exercise1\obj\Debug\net6.0-windows\Exercise1_MarkupCompile.lref

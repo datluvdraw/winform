@@ -1,0 +1,15 @@
+D:\window d\12_7\Lession 3\exi1\bin\Debug\net6.0\exi1.exe
+D:\window d\12_7\Lession 3\exi1\bin\Debug\net6.0\exi1.deps.json
+D:\window d\12_7\Lession 3\exi1\bin\Debug\net6.0\exi1.runtimeconfig.json
+D:\window d\12_7\Lession 3\exi1\bin\Debug\net6.0\exi1.dll
+D:\window d\12_7\Lession 3\exi1\bin\Debug\net6.0\exi1.pdb
+D:\window d\12_7\Lession 3\exi1\obj\Debug\net6.0\exi1.csproj.AssemblyReference.cache
+D:\window d\12_7\Lession 3\exi1\obj\Debug\net6.0\exi1.GeneratedMSBuildEditorConfig.editorconfig
+D:\window d\12_7\Lession 3\exi1\obj\Debug\net6.0\exi1.AssemblyInfoInputs.cache
+D:\window d\12_7\Lession 3\exi1\obj\Debug\net6.0\exi1.AssemblyInfo.cs
+D:\window d\12_7\Lession 3\exi1\obj\Debug\net6.0\exi1.csproj.CoreCompileInputs.cache
+D:\window d\12_7\Lession 3\exi1\obj\Debug\net6.0\exi1.dll
+D:\window d\12_7\Lession 3\exi1\obj\Debug\net6.0\refint\exi1.dll
+D:\window d\12_7\Lession 3\exi1\obj\Debug\net6.0\exi1.pdb
+D:\window d\12_7\Lession 3\exi1\obj\Debug\net6.0\exi1.genruntimeconfig.cache
+D:\window d\12_7\Lession 3\exi1\obj\Debug\net6.0\ref\exi1.dll
